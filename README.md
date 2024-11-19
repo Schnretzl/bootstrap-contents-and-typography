@@ -1,1 +1,1 @@
-# bootstrap-contents-and-typography
+# Bootstrap Contents and Typography
